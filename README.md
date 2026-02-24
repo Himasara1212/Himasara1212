@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himasara1212&label=Profile%20views&color=0e75b6&style=flat" alt="himasara1212" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **IJSE-Institute of Software Engineering**
+
+- 💬 Ask me about **Java,Javafx,DBMS,JDBConnection**
 
 - 📫 How to reach me **dinuhima0512@gmail.com**
 
