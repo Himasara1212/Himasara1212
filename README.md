@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanduni Himasara</h1>
-<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
+<h3 align="center">Undergraduate | Student at IJSE-Institute of Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himasara1212&label=Profile%20views&color=0e75b6&style=flat" alt="himasara1212" /> </p>
 
